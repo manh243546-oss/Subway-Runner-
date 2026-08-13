@@ -1,0 +1,6 @@
+{
+  "name": "Subway Runner 3D",
+  "description": "3D High-Performance Subway Runner 3D Endless Runner Engine with Object Pooling, GPU Instancing, Spatial Partitioning, Web Worker multi-threading, Shop & Online Leaderboard",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
